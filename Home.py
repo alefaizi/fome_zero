@@ -44,5 +44,6 @@ st.markdown(
     - Fique à vontade para entrar em contato, obter mais informações e enviar sugestões:
         - E-mail: ale.faizi@gmail.com
         - LinkedIn: https://www.linkedin.com/in/alexandrecsf/
+        - Para mais informações acesse o README
 """)
 st.markdown("""___""")
