@@ -13,7 +13,7 @@ from streamlit_folium import folium_static
 #==================================================================
 # Import e cópia do dataset
 #==================================================================
-df = pd.read_csv('dataset\zomato.csv')
+df = pd.read_csv('dataset/zomato.csv')
 df1 = df.copy()
 
 #==================================================================
